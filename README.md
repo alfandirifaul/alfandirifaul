@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently study on Bina Nusantara University Jakarta
 . A passionate Mechatronics Engineer, IoT and Fullstack Developer from Jakarta</h3>
 
-- 📫 How to reach me **alfandirifaul@gmail.com**
+- 📫 Reach me on **alfandirifaul@gmail.com**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1149871842492948631) 
