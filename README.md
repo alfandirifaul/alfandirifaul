@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfandi</h1>
 <h3 align="center">I'm currently study on Bina Nusantara University Jakarta
-. A passionate IoT, Mechatronics Engineer and Fullstack developer from Indonesia</h3>
+. A passionate Mechatronics Engineer, IoT and Fullstack Developer from Jakarta</h3>
 
 - 📫 How to reach me **alfandirifaul@gmail.com**
 
