@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alfandi</h1>
-<h3 align="center">I'm currently study on Bina Nusantara University Jakarta
-. A passionate Mechatronics Engineer, IoT and Fullstack Developer from Jakarta</h3>
+<h1 align="center">Hi 👋, I'm Pamdi</h1>
+<h3 align="center">I'm interested in and have expertise in Robotics and Mechatronics Engineering, as well as being an IoT Full-Stack Developer.</h3>
 
 - 📫 Reach me on **alfandirifaul@gmail.com**
 
